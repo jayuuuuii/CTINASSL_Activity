@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# CTINASSL_Activity
+=======
 # Shelfwork — E-commerce & Inventory Platform (Phase 3)
 
 The Phase 1 frontend and Phase 2 backend, extended into one platform with two interfaces:
@@ -37,3 +40,4 @@ Reset to the sample data at any time: `cd backend && npm run reset-data` (then r
 - Run the automated tests: `cd backend && npm test`
 
 Payments are simulated for a school project. No real payment is processed and no card details are collected.
+>>>>>>> 148e887 (initial commit)
