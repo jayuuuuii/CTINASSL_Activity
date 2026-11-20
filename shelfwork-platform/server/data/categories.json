@@ -1,0 +1,37 @@
+[
+  {
+    "categoryId": "CAT-00000001",
+    "categoryName": "Packaging",
+    "description": "Boxes, mailers, labels and shipping materials.",
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z"
+  },
+  {
+    "categoryId": "CAT-00000002",
+    "categoryName": "Kitchen & Pantry",
+    "description": "Drinkware, brewing gear and pantry goods.",
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z"
+  },
+  {
+    "categoryId": "CAT-00000003",
+    "categoryName": "Office Supplies",
+    "description": "Stationery and desk accessories.",
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z"
+  },
+  {
+    "categoryId": "CAT-00000004",
+    "categoryName": "Electronics",
+    "description": "Cables, scanners, lighting and small devices.",
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z"
+  },
+  {
+    "categoryId": "CAT-00000005",
+    "categoryName": "Hardware",
+    "description": "Brackets, tape, carts and warehouse equipment.",
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z"
+  }
+]

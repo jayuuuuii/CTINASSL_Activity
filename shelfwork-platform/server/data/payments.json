@@ -1,0 +1,86 @@
+[
+  {
+    "paymentId": "PAY-00000007",
+    "orderId": "ORD-00000007",
+    "userId": "USR-00000002",
+    "method": "ONLINE_SIMULATED",
+    "amount": 3050,
+    "status": "PAID",
+    "reference": "SIM-A1B2C48E7F",
+    "simulated": true,
+    "createdAt": "2026-11-19T23:27:06.222Z",
+    "updatedAt": "2026-11-20T00:39:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000006",
+    "orderId": "ORD-00000006",
+    "userId": "USR-00000004",
+    "method": "COD",
+    "amount": 645,
+    "status": "PENDING",
+    "reference": null,
+    "simulated": true,
+    "createdAt": "2026-11-19T21:03:06.222Z",
+    "updatedAt": "2026-11-19T21:03:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000005",
+    "orderId": "ORD-00000005",
+    "userId": "USR-00000003",
+    "method": "COD",
+    "amount": 860,
+    "status": "PENDING",
+    "reference": null,
+    "simulated": true,
+    "createdAt": "2026-11-19T01:51:06.222Z",
+    "updatedAt": "2026-11-19T11:27:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000004",
+    "orderId": "ORD-00000004",
+    "userId": "USR-00000002",
+    "method": "ONLINE_SIMULATED",
+    "amount": 1590,
+    "status": "PAID",
+    "reference": "SIM-A1B2C431B2",
+    "simulated": true,
+    "createdAt": "2026-11-17T01:51:06.222Z",
+    "updatedAt": "2026-11-18T13:51:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000003",
+    "orderId": "ORD-00000003",
+    "userId": "USR-00000004",
+    "method": "COD",
+    "amount": 1090,
+    "status": "VOIDED",
+    "reference": null,
+    "simulated": true,
+    "createdAt": "2026-11-15T01:51:06.222Z",
+    "updatedAt": "2026-11-15T06:39:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000002",
+    "orderId": "ORD-00000002",
+    "userId": "USR-00000003",
+    "method": "ONLINE_SIMULATED",
+    "amount": 1630,
+    "status": "PAID",
+    "reference": "SIM-A1B2C3F3D4",
+    "simulated": true,
+    "createdAt": "2026-11-12T01:51:06.222Z",
+    "updatedAt": "2026-11-15T01:51:06.222Z"
+  },
+  {
+    "paymentId": "PAY-00000001",
+    "orderId": "ORD-00000001",
+    "userId": "USR-00000002",
+    "method": "COD",
+    "amount": 1435,
+    "status": "PAID",
+    "reference": null,
+    "simulated": true,
+    "createdAt": "2026-11-08T01:51:06.222Z",
+    "updatedAt": "2026-11-11T01:51:06.222Z"
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Rolling Stock Cart">
+  <rect width="800" height="600" fill="#f2ead7"/>
+  <circle cx="561" cy="343" r="210" fill="#b88b52" opacity="0.18"/>
+  <rect x="0" y="520" width="800" height="80" fill="#ece3cd"/>
+  <g fill="none" stroke="#1b7c78" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"><path d="M300 200h40v190h150v40H300z" /><circle cx="320" cy="230" r="8" /><circle cx="460" cy="410" r="8" /><path d="M360 300 470 190" /></g>
+</svg>

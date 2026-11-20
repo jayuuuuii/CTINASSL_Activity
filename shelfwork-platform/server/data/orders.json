@@ -1,0 +1,416 @@
+[
+  {
+    "orderId": "ORD-00000007",
+    "userId": "USR-00000002",
+    "customer": {
+      "fullName": "Andrea Bautista",
+      "email": "andrea@example.com",
+      "phone": "+63 917 123 4501",
+      "address": "Unit 4B, 21 Kalayaan Ave, Diliman, Quezon City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000012",
+        "productName": "Heavy-Duty Shelf Bracket Pair",
+        "imageUrl": "/uploads/products/PRD-00000012.svg",
+        "unitPrice": 275,
+        "quantity": 2,
+        "lineTotal": 550
+      },
+      {
+        "productId": "PRD-00000008",
+        "productName": "Desk Organizer, Walnut",
+        "imageUrl": "/uploads/products/PRD-00000008.svg",
+        "unitPrice": 1250,
+        "quantity": 2,
+        "lineTotal": 2500
+      }
+    ],
+    "subtotal": 3050,
+    "shippingFee": 0,
+    "total": 3050,
+    "paymentMethod": "ONLINE_SIMULATED",
+    "paymentStatus": "PAID",
+    "paymentId": "PAY-00000007",
+    "status": "Confirmed",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-19T23:27:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "at": "2026-11-20T00:39:06.222Z",
+        "by": "admin",
+        "note": "Order confirmed"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-7",
+    "createdAt": "2026-11-19T23:27:06.222Z",
+    "updatedAt": "2026-11-20T00:39:06.222Z"
+  },
+  {
+    "orderId": "ORD-00000006",
+    "userId": "USR-00000004",
+    "customer": {
+      "fullName": "Carla Reyes",
+      "email": "carla@example.com",
+      "phone": "+63 919 345 6703",
+      "address": "15 Gorordo Ave, Lahug, Cebu City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000006",
+        "productName": "A5 Dot Grid Notebook",
+        "imageUrl": "/uploads/products/PRD-00000006.svg",
+        "unitPrice": 165,
+        "quantity": 2,
+        "lineTotal": 330
+      },
+      {
+        "productId": "PRD-00000002",
+        "productName": "Thermal Label Roll 4x6",
+        "imageUrl": "/uploads/products/PRD-00000002.svg",
+        "unitPrice": 215,
+        "quantity": 1,
+        "lineTotal": 215
+      }
+    ],
+    "subtotal": 545,
+    "shippingFee": 100,
+    "total": 645,
+    "paymentMethod": "COD",
+    "paymentStatus": "PENDING",
+    "paymentId": "PAY-00000006",
+    "status": "Pending",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-19T21:03:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-6",
+    "createdAt": "2026-11-19T21:03:06.222Z",
+    "updatedAt": "2026-11-19T21:03:06.222Z"
+  },
+  {
+    "orderId": "ORD-00000005",
+    "userId": "USR-00000003",
+    "customer": {
+      "fullName": "Miguel Santos",
+      "email": "miguel@example.com",
+      "phone": "+63 918 234 5602",
+      "address": "88 Mabini St, Poblacion, Makati City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000001",
+        "productName": "Kraft Mailer Box, Medium",
+        "imageUrl": "/uploads/products/PRD-00000001.svg",
+        "unitPrice": 38,
+        "quantity": 10,
+        "lineTotal": 380
+      },
+      {
+        "productId": "PRD-00000013",
+        "productName": "Pallet Strapping Tape, 48mm",
+        "imageUrl": "/uploads/products/PRD-00000013.svg",
+        "unitPrice": 95,
+        "quantity": 4,
+        "lineTotal": 380
+      }
+    ],
+    "subtotal": 760,
+    "shippingFee": 100,
+    "total": 860,
+    "paymentMethod": "COD",
+    "paymentStatus": "PENDING",
+    "paymentId": "PAY-00000005",
+    "status": "Processing",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-19T01:51:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "at": "2026-11-19T04:15:06.222Z",
+        "by": "admin",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "Processing",
+        "at": "2026-11-19T11:27:06.222Z",
+        "by": "admin",
+        "note": "Items picked and being packed"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-5",
+    "createdAt": "2026-11-19T01:51:06.222Z",
+    "updatedAt": "2026-11-19T11:27:06.222Z"
+  },
+  {
+    "orderId": "ORD-00000004",
+    "userId": "USR-00000002",
+    "customer": {
+      "fullName": "Andrea Bautista",
+      "email": "andrea@example.com",
+      "phone": "+63 917 123 4501",
+      "address": "Unit 4B, 21 Kalayaan Ave, Diliman, Quezon City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000008",
+        "productName": "Desk Organizer, Walnut",
+        "imageUrl": "/uploads/products/PRD-00000008.svg",
+        "unitPrice": 1250,
+        "quantity": 1,
+        "lineTotal": 1250
+      },
+      {
+        "productId": "PRD-00000007",
+        "productName": "Gel Pen 0.5mm, Black (12 pk)",
+        "imageUrl": "/uploads/products/PRD-00000007.svg",
+        "unitPrice": 240,
+        "quantity": 1,
+        "lineTotal": 240
+      }
+    ],
+    "subtotal": 1490,
+    "shippingFee": 100,
+    "total": 1590,
+    "paymentMethod": "ONLINE_SIMULATED",
+    "paymentStatus": "PAID",
+    "paymentId": "PAY-00000004",
+    "status": "Shipped",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-17T01:51:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "at": "2026-11-17T04:15:06.222Z",
+        "by": "admin",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "Processing",
+        "at": "2026-11-17T13:51:06.222Z",
+        "by": "admin",
+        "note": "Items picked and being packed"
+      },
+      {
+        "status": "Shipped",
+        "at": "2026-11-18T13:51:06.222Z",
+        "by": "admin",
+        "note": "Handed to courier"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-4",
+    "createdAt": "2026-11-17T01:51:06.222Z",
+    "updatedAt": "2026-11-18T13:51:06.222Z"
+  },
+  {
+    "orderId": "ORD-00000003",
+    "userId": "USR-00000004",
+    "customer": {
+      "fullName": "Carla Reyes",
+      "email": "carla@example.com",
+      "phone": "+63 919 345 6703",
+      "address": "15 Gorordo Ave, Lahug, Cebu City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000011",
+        "productName": "LED Task Lamp",
+        "imageUrl": "/uploads/products/PRD-00000011.svg",
+        "unitPrice": 990,
+        "quantity": 1,
+        "lineTotal": 990
+      }
+    ],
+    "subtotal": 990,
+    "shippingFee": 100,
+    "total": 1090,
+    "paymentMethod": "COD",
+    "paymentStatus": "VOIDED",
+    "paymentId": "PAY-00000003",
+    "status": "Cancelled",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-15T01:51:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Cancelled",
+        "at": "2026-11-15T06:39:06.222Z",
+        "by": "customer",
+        "note": "Ordered by mistake"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-3",
+    "createdAt": "2026-11-15T01:51:06.222Z",
+    "updatedAt": "2026-11-15T06:39:06.222Z",
+    "cancelledAt": "2026-11-15T06:39:06.222Z",
+    "cancelledBy": "customer",
+    "cancelReason": "Ordered by mistake"
+  },
+  {
+    "orderId": "ORD-00000002",
+    "userId": "USR-00000003",
+    "customer": {
+      "fullName": "Miguel Santos",
+      "email": "miguel@example.com",
+      "phone": "+63 918 234 5602",
+      "address": "88 Mabini St, Poblacion, Makati City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000005",
+        "productName": "Whole Bean Coffee 1kg",
+        "imageUrl": "/uploads/products/PRD-00000005.svg",
+        "unitPrice": 890,
+        "quantity": 1,
+        "lineTotal": 890
+      },
+      {
+        "productId": "PRD-00000009",
+        "productName": "USB-C Charging Cable 2m",
+        "imageUrl": "/uploads/products/PRD-00000009.svg",
+        "unitPrice": 320,
+        "quantity": 2,
+        "lineTotal": 640
+      }
+    ],
+    "subtotal": 1530,
+    "shippingFee": 100,
+    "total": 1630,
+    "paymentMethod": "ONLINE_SIMULATED",
+    "paymentStatus": "PAID",
+    "paymentId": "PAY-00000002",
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-12T01:51:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "at": "2026-11-12T04:15:06.222Z",
+        "by": "admin",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "Processing",
+        "at": "2026-11-12T13:51:06.222Z",
+        "by": "admin",
+        "note": "Items picked and being packed"
+      },
+      {
+        "status": "Shipped",
+        "at": "2026-11-13T01:51:06.222Z",
+        "by": "admin",
+        "note": "Handed to courier"
+      },
+      {
+        "status": "Delivered",
+        "at": "2026-11-15T01:51:06.222Z",
+        "by": "admin",
+        "note": "Delivered to customer"
+      }
+    ],
+    "notes": "",
+    "idempotencyKey": "sample-order-2",
+    "createdAt": "2026-11-12T01:51:06.222Z",
+    "updatedAt": "2026-11-15T01:51:06.222Z"
+  },
+  {
+    "orderId": "ORD-00000001",
+    "userId": "USR-00000002",
+    "customer": {
+      "fullName": "Andrea Bautista",
+      "email": "andrea@example.com",
+      "phone": "+63 917 123 4501",
+      "address": "Unit 4B, 21 Kalayaan Ave, Diliman, Quezon City"
+    },
+    "items": [
+      {
+        "productId": "PRD-00000003",
+        "productName": "Stainless Steel Tumbler 500ml",
+        "imageUrl": "/uploads/products/PRD-00000003.svg",
+        "unitPrice": 420,
+        "quantity": 2,
+        "lineTotal": 840
+      },
+      {
+        "productId": "PRD-00000006",
+        "productName": "A5 Dot Grid Notebook",
+        "imageUrl": "/uploads/products/PRD-00000006.svg",
+        "unitPrice": 165,
+        "quantity": 3,
+        "lineTotal": 495
+      }
+    ],
+    "subtotal": 1335,
+    "shippingFee": 100,
+    "total": 1435,
+    "paymentMethod": "COD",
+    "paymentStatus": "PAID",
+    "paymentId": "PAY-00000001",
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Pending",
+        "at": "2026-11-08T01:51:06.222Z",
+        "by": "customer",
+        "note": "Order placed"
+      },
+      {
+        "status": "Confirmed",
+        "at": "2026-11-08T04:15:06.222Z",
+        "by": "admin",
+        "note": "Order confirmed"
+      },
+      {
+        "status": "Processing",
+        "at": "2026-11-08T13:51:06.222Z",
+        "by": "admin",
+        "note": "Items picked and being packed"
+      },
+      {
+        "status": "Shipped",
+        "at": "2026-11-09T01:51:06.222Z",
+        "by": "admin",
+        "note": "Handed to courier"
+      },
+      {
+        "status": "Delivered",
+        "at": "2026-11-11T01:51:06.222Z",
+        "by": "admin",
+        "note": "Delivered to customer"
+      }
+    ],
+    "notes": "Please call before delivery.",
+    "idempotencyKey": "sample-order-1",
+    "createdAt": "2026-11-08T01:51:06.222Z",
+    "updatedAt": "2026-11-11T01:51:06.222Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "userId": "USR-00000001",
+    "fullName": "Store Administrator",
+    "email": "admin@shelfwork.example",
+    "phone": "+63 2 8555 0100",
+    "address": "Shelfwork Warehouse, Pasig City",
+    "passwordHash": "scrypt$ab3e941bc2834f3287caae2d5c09cf03$1d61e1e85f230efb92ab9eee60f43d604ff7d0b57e3431395cea42a71029c450d80055853957c22fafa76c6e60377aa3555c448150e433c761dfe0f7149bdd86",
+    "role": "admin",
+    "status": "active",
+    "tokenVersion": 0,
+    "createdAt": "2026-09-11T01:51:06.222Z",
+    "updatedAt": "2026-09-11T01:51:06.222Z",
+    "lastLoginAt": null
+  },
+  {
+    "userId": "USR-00000002",
+    "fullName": "Andrea Bautista",
+    "email": "andrea@example.com",
+    "phone": "+63 917 123 4501",
+    "address": "Unit 4B, 21 Kalayaan Ave, Diliman, Quezon City",
+    "passwordHash": "scrypt$a032d5191f3d97edeb1fc21dadef9be1$e489fe1c614b8d7bb363f584ea4e4d757e6083b2b4439685437c1b9f8504457f356743a1f4d986d5913fd60e4e57e62bae827a377854b8851579898c30ad35bb",
+    "role": "customer",
+    "status": "active",
+    "tokenVersion": 0,
+    "createdAt": "2026-10-11T01:51:06.222Z",
+    "updatedAt": "2026-10-11T01:51:06.222Z",
+    "lastLoginAt": "2026-11-17T01:51:06.222Z"
+  },
+  {
+    "userId": "USR-00000003",
+    "fullName": "Miguel Santos",
+    "email": "miguel@example.com",
+    "phone": "+63 918 234 5602",
+    "address": "88 Mabini St, Poblacion, Makati City",
+    "passwordHash": "scrypt$a032d5191f3d97edeb1fc21dadef9be1$e489fe1c614b8d7bb363f584ea4e4d757e6083b2b4439685437c1b9f8504457f356743a1f4d986d5913fd60e4e57e62bae827a377854b8851579898c30ad35bb",
+    "role": "customer",
+    "status": "active",
+    "tokenVersion": 0,
+    "createdAt": "2026-10-17T01:51:06.222Z",
+    "updatedAt": "2026-10-17T01:51:06.222Z",
+    "lastLoginAt": "2026-11-18T01:51:06.222Z"
+  },
+  {
+    "userId": "USR-00000004",
+    "fullName": "Carla Reyes",
+    "email": "carla@example.com",
+    "phone": "+63 919 345 6703",
+    "address": "15 Gorordo Ave, Lahug, Cebu City",
+    "passwordHash": "scrypt$a032d5191f3d97edeb1fc21dadef9be1$e489fe1c614b8d7bb363f584ea4e4d757e6083b2b4439685437c1b9f8504457f356743a1f4d986d5913fd60e4e57e62bae827a377854b8851579898c30ad35bb",
+    "role": "customer",
+    "status": "active",
+    "tokenVersion": 0,
+    "createdAt": "2026-10-23T01:51:06.222Z",
+    "updatedAt": "2026-10-23T01:51:06.222Z",
+    "lastLoginAt": "2026-11-19T01:51:06.222Z"
+  },
+  {
+    "userId": "USR-00000005",
+    "fullName": "Paolo Garcia",
+    "email": "paolo@example.com",
+    "phone": "+63 920 456 7804",
+    "address": "7 Session Road, Baguio City",
+    "passwordHash": "scrypt$a032d5191f3d97edeb1fc21dadef9be1$e489fe1c614b8d7bb363f584ea4e4d757e6083b2b4439685437c1b9f8504457f356743a1f4d986d5913fd60e4e57e62bae827a377854b8851579898c30ad35bb",
+    "role": "customer",
+    "status": "disabled",
+    "tokenVersion": 0,
+    "createdAt": "2026-10-29T01:51:06.222Z",
+    "updatedAt": "2026-10-29T01:51:06.222Z",
+    "lastLoginAt": "2026-11-19T23:27:06.222Z"
+  }
+]

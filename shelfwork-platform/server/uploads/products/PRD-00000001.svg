@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Kraft Mailer Box, Medium">
+  <rect width="800" height="600" fill="#f2ead7"/>
+  <circle cx="180" cy="150" r="210" fill="#2aa6a0" opacity="0.18"/>
+  <rect x="0" y="520" width="800" height="80" fill="#ece3cd"/>
+  <g fill="none" stroke="#1b7c78" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"><path d="M260 250 400 180l140 70v150l-140 70-140-70z" /><path d="M260 250l140 70 140-70M400 320v150" /><path d="M330 215l140 70v40" /></g>
+</svg>

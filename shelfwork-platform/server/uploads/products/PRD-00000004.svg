@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Ceramic Pour-Over Dripper">
+  <rect width="800" height="600" fill="#f2ead7"/>
+  <circle cx="471" cy="333" r="210" fill="#b88b52" opacity="0.18"/>
+  <rect x="0" y="520" width="800" height="80" fill="#ece3cd"/>
+  <g fill="none" stroke="#1b7c78" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"><path d="M330 200h140l-15 260h-110z" /><path d="M322 200h156" /><path d="M340 250h120" /><path d="M470 260c45 0 45 90 0 90" /></g>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "name": "inventory-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Express REST API for the Shelfwork e-commerce and inventory platform",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test",
+    "reset-data": "node scripts/reset-data.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "supplierId": "SUP-00000001",
+    "supplierName": "Luzon Paper Supply",
+    "contactPerson": "Maria Santos",
+    "email": "orders@luzonpaper.example",
+    "phone": "+63 917 555 0101",
+    "address": "12 Rizal Ave, Quezon City, Metro Manila",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000002",
+    "supplierName": "PrintMark Trading",
+    "contactPerson": "Joel Reyes",
+    "email": "sales@printmark.example",
+    "phone": "+63 918 555 0102",
+    "address": "88 Shaw Blvd, Mandaluyong, Metro Manila",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000003",
+    "supplierName": "Harbor Housewares",
+    "contactPerson": "Angela Cruz",
+    "email": "hello@harborhousewares.example",
+    "phone": "+63 919 555 0103",
+    "address": "5 Pier Road, Cebu City",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000004",
+    "supplierName": "Benguet Highland Roasters",
+    "contactPerson": "Ramon Dela Cruz",
+    "email": "trade@benguetroasters.example",
+    "phone": "+63 920 555 0104",
+    "address": "41 Session Road, Baguio City",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000005",
+    "supplierName": "Paperworks Manila",
+    "contactPerson": "Liza Mercado",
+    "email": "accounts@paperworksmanila.example",
+    "phone": "+63 921 555 0105",
+    "address": "230 Recto Ave, Manila",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000006",
+    "supplierName": "Cebu Woodcraft",
+    "contactPerson": "Paolo Villanueva",
+    "email": "studio@cebuwoodcraft.example",
+    "phone": "+63 922 555 0106",
+    "address": "17 Mactan Road, Lapu-Lapu City",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000007",
+    "supplierName": "Volt Distribution",
+    "contactPerson": "Kevin Tan",
+    "email": "b2b@voltdistribution.example",
+    "phone": "+63 923 555 0107",
+    "address": "9 Ortigas Center, Pasig City",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000008",
+    "supplierName": "Brightline Imports",
+    "contactPerson": "Grace Lim",
+    "email": "orders@brightline.example",
+    "phone": "+63 924 555 0108",
+    "address": "300 Roxas Blvd, Pasay City",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  },
+  {
+    "supplierId": "SUP-00000009",
+    "supplierName": "Metro Steel & Fasteners",
+    "contactPerson": "Dennis Ocampo",
+    "email": "sales@metrosteel.example",
+    "phone": "+63 925 555 0109",
+    "address": "Lot 4, Industrial Park, Calamba, Laguna",
+    "createdAt": "2026-09-16T01:51:06.222Z",
+    "updatedAt": "2026-09-16T01:51:06.222Z"
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Wireless Barcode Scanner">
+  <rect width="800" height="600" fill="#f2ead7"/>
+  <circle cx="613" cy="399" r="210" fill="#7ea5a0" opacity="0.18"/>
+  <rect x="0" y="520" width="800" height="80" fill="#ece3cd"/>
+  <g fill="none" stroke="#1b7c78" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"><path d="M360 190v60M440 190v60" /><rect x="330" y="250" width="140" height="90" rx="12" /><path d="M400 340v40c0 40-60 40-60 80" /></g>
+</svg>
